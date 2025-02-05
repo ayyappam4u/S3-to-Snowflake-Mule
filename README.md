@@ -51,3 +51,12 @@ COPY INTO my_table
 FROM @my_s3_stage/my_data.csv
 FILE_FORMAT = (TYPE = 'CSV' FIELD_OPTIONALLY_ENCLOSED_BY = '"')
 ON_ERROR = 'CONTINUE';
+
+
+
+
+![image](https://github.com/user-attachments/assets/6183bcd2-76af-43da-8874-aa00bdabe304)
+
+
+
+
