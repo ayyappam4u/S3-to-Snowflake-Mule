@@ -53,9 +53,17 @@ FILE_FORMAT = (TYPE = 'CSV' FIELD_OPTIONALLY_ENCLOSED_BY = '"')
 ON_ERROR = 'CONTINUE';
 
 
+**MuleSoft**
 
+1.Drap and drop copy into connector
+2. Provide the connector configuration details
 
 ![image](https://github.com/user-attachments/assets/6183bcd2-76af-43da-8874-aa00bdabe304)
+![image](https://github.com/user-attachments/assets/7dbdcd7a-1c43-4596-83e2-668cfe670af3)
+![image](https://github.com/user-attachments/assets/f0658a3f-5eb9-483d-8ef5-729e4cdeace5)
+
+
+
 
 
 
