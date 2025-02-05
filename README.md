@@ -1,4 +1,4 @@
-# S3-to-Snowflake-Mule
+# Data Ingestion to Snowflake from External Stage with Mulesoft
 
 Step:1:
 	Create a snowflake account for 30 days.
